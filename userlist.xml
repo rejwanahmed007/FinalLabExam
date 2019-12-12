@@ -1,0 +1,20 @@
+<users>
+	<user>
+		<id>1</id>
+		<name>rejwan</name>
+		<password>rejwan</password>
+		<usertype>admin</usertype>
+	</user>
+	<user>
+		<id>2</id>
+		<name>tanvir</name>
+		<password>tanvir</password>
+		<usertype>user</usertype>
+	</user>
+	<user>
+		<id>3</id>
+		<name>arnab</name>
+		<password>arnab</password>
+		<usertype>user</usertype>
+	</user>
+</users>
