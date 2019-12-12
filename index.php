@@ -26,7 +26,7 @@
                     <tr>
                         <td><input type="submit" name="login"  value="Login"></td>
 
-                        <td><a href="registration.php">Register</a></td>
+                        <td><a href="views/registration.php">Register</a></td>
                     </tr>
                 </table>
             </fieldset>

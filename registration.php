@@ -31,8 +31,10 @@
                 </table><hr>
                 <table border="0">
                     <tr>
-                        <td><input type="radio" name="usertype" value="User">User</td>
-                        <td><input type="radio" name="usertype" value="Admin">Admin</td>
+                        <select>
+                            <option value="admin">Admin</option>
+                            <option value="user">User</option>
+                        </select>
                     </tr>
                     
                     
@@ -41,9 +43,11 @@
                 <hr>
                 <table border="0">
                     <tr>
-                        <td><input type="submit" name="signup"  value="Sign Up"></td>
+                         
+                        <td><input type="submit" name="register"  value="Register"></td>
+                        <td><a href="..index.php">Login</a></td>
 
-                        <td><a href="index.php">Sign In</a></td>
+                       
                     </tr>
                 </table>
             </fieldset>
