@@ -18,7 +18,7 @@
                         <td colspan="2"><input type="password" name="password"></td>
                     </tr>
                     <tr>
-                        <td colspan="2"><input type="password" name="password"></td>
+                        <td colspan="2"><input type="checkbox" name="remember">Remember Me</td>
                     </tr>
                 </table>
                 <hr>
@@ -26,7 +26,7 @@
                     <tr>
                         <td><input type="submit" name="login"  value="Login"></td>
 
-                        <td><a href="uservalidation.php">Register</a></td>
+                        <td><a href="registration.php">Register</a></td>
                     </tr>
                 </table>
             </fieldset>
